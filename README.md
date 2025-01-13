@@ -6,25 +6,25 @@ ___  ____ ____ _   _ ____ ____    ___  _  _ ____ _  _ ____ ____
 <table>
   <tr>
     <td id="blog">
-      <button href="https://prayag.bhakar.org">
+      <a href="https://prayag.bhakar.org">
         <picture>
-          <img alt="81reap's Blog" src="./svg/pineapple.svg" height="60"/>
+          <img alt="81reap's Blog" src="./svg/pineapple.svg" width="50" height="50"/>
         </picture>
-      </button>
+      </a>
     </td>
     <td id="twitter">
-      <button href="https://x.com/PrayagBhakar">
+      <a href="https://x.com/PrayagBhakar">
         <picture>
-          <img alt="81reap's Twitter" src="./svg/twitter.svg" height="60"/>
+          <img alt="81reap's Twitter" src="./svg/twitter.svg" width="50" height="50"/>
         </picture>
-      </button>
+      </a>
     </td>
     <td id="huggingface">
-      <button href="https://huggingface.co/81reap">
+      <a href="https://huggingface.co/81reap">
         <picture>
-          <img alt="81reap's Twitter" src="./svg/huggingface.svg" height="60"/>
+          <img alt="81reap's Twitter" src="./svg/huggingface.svg" width="50" height="50"/>
         </picture>
-      </button>
+      </a>
     </td>
   </tr>
 </table>
