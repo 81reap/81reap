@@ -52,7 +52,8 @@ ___  ____ ____ _   _ ____ ____    ___  _  _ ____ _  _ ____ ____
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=81reap&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" />
           <img alt="81reap's Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=81reap&theme=vue&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" />
         </picture>
-      <!--   <figcaption>hidden :: Jupyter Notebooks</figcaption> -->
+        <br>
+        <figcaption>hidden :: Jupyter Notebooks</figcaption>
       </figure>
     </td>
   </tr>
