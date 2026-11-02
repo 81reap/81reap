@@ -4,7 +4,7 @@ ___  ____ ____ _   _ ____ ____    ___  _  _ ____ _  _ ____ ____
 |    |  \ |  |   |   |  | |__]    |__] |  | |  | | \_ |  | |  \ 
 </pre>
 
-<h3><a href="https://prayag.bhakar.org">📖 Latest Blog Posts 📚</a></h3.>
+<h2>📖 Latest Blog Posts 📚</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Docker Refresher 🍹](https://prayag.bhakar.org/blog/post/docker-refresher)
